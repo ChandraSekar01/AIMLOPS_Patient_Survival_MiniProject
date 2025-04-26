@@ -1,1 +1,1 @@
-# AIMLOPS_Patient_Survival_MiniProject
+# AIMLOPS_Patient_Survival_Prediction_MiniProject
