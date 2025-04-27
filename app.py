@@ -51,4 +51,4 @@ if __name__ == "__main__":
                             description = description,
                             flagging_mode='never')
 
-    iface.launch(share = True, server_port = 8082)  # server_name="0.0.0.0", server_port = 8001   # Ref: https://www.gradio.app/docs/interface
+    iface.launch(share = True, server_name="0.0.0.0", server_port = 8082)  # server_name="0.0.0.0", server_port = 8001   # Ref: https://www.gradio.app/docs/interface
